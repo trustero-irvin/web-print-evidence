@@ -1,0 +1,32 @@
+[
+  {
+    "name": "rtFa",
+    "value": "8lpcHQhEMqbORA0S31Qc/tmfwaA/W8a77NZTzbKn5cwmZWI5YTJlYmUtMWNmMC00ZDlkLTgxZDUtOTJjNGU5YzJkODYwIzEzMzg1NjQxNzk1OTkyODY2NyMzMTdlODdhMS05MDE2LTgwMDAtMjA1My01YWYxYjdmYTQzMjYjaXJ2aW4lNDBUcnVzdGVybzMzMS5vbm1pY3Jvc29mdC5jb20jMTk0MDk0I2IzSVFoNDVreWFmeHZmSlROU1AzUnN1b09GTSNQMVptZE55WmdvdEh6NzVIdnBqdm1fN3U0LW9Q9KBXhfVdx6Fa/sPLTMFl+E/toT8LYRX5x/EHCJHJIbZshDbMXHMRKxj2qm6G3wlAKk1VWmRup/e8i02hp99wmbAwaLV4+fEqus9spbX1DKy7jckMRFpuHdoEaRMIyDvROcOFHpabqxMCfE4kPbcgREFFgv3BCwHLGWRxKMxBu4yHL6FfwEArzH6Xp2I8uOy5jfNMHMK0gVKnozO1EEq8siL4OnUj/UFEjuhyR3vul57SNUEK4BXZV9C4mK0c9pD9Essu/mXhoouPoLfKYprnIxwTiWlSkI3fBuM+/WJlDlV5/9dmSV91iY8zrXBijG/h789K4F2pjU5YtxoG0jG84AAAAA==",
+    "domain": ".sharepoint.com",
+    "path": "/",
+    "expires": 1741599242.137,
+    "size": 652,
+    "httpOnly": true,
+    "secure": true,
+    "session": false,
+    "sameSite": "None",
+    "priority": "Medium",
+    "sourceScheme": "Secure",
+    "sourcePort": -1
+  },
+  {
+    "name": "FedAuth",
+    "value": "77u/PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48U1A+VjEzLDBoLmZ8bWVtYmVyc2hpcHwxMDAzMjAwNDQ5ZTgwYjczQGxpdmUuY29tLDAjLmZ8bWVtYmVyc2hpcHxpcnZpbkB0cnVzdGVybzMzMS5vbm1pY3Jvc29mdC5jb20sMTMzODU2NDE1ODQwMDAwMDAwLDEzMzgzNzkyODI5MDAwMDAwMCwxMzM4NjA3Mzc5NTk3NzI1MjksMTE5Ljk0LjE2My4yNDksNjcsZWI5YTJlYmUtMWNmMC00ZDlkLTgxZDUtOTJjNGU5YzJkODYwLCwwMDJlOTFmOS1hY2E2LTFiNzEtMzk3Ni0xMGExMWRhNTllZTcsMzE3ZTg3YTEtOTAxNi04MDAwLTIwNTMtNWFmMWI3ZmE0MzI2LDMxN2U4N2ExLTkwMTYtODAwMC0yMDUzLTVhZjFiN2ZhNDMyNiwsMCwxMzM4NTcyODE5NTk2MTYxNDgsMTMzODU5MDA5OTU5NjE2MTQ4LCwsZXlKNGJYTmZZMk1pT2lKYlhDSkRVREZjSWwwaUxDSjRiWE5mYzNOdElqb2lNU0lzSW5CeVpXWmxjbkpsWkY5MWMyVnlibUZ0WlNJNkltbHlkbWx1UUZSeWRYTjBaWEp2TXpNeExtOXViV2xqY205emIyWjBMbU52YlNJc0luVjBhU0k2SW1OSmFYVkZaMjlCUWpCVFNGRndkMXBxU0ZaT1FVRWlmUT09LDI2NTA0Njc3NDM5OTk5OTk5OTksMTMzODU2NDE3OTUwMDAwMDAwLDg4YWY0NTdjLWJmOGQtNDUyYy04N2UzLTc4Y2I2MDY0NTMwYSwsLCwsLDExNTI5MjE1MDQ2MDY4NDY5NzgsLDE5NDA5NCx1WGVoUUpQbGVWak5DYmFrVWhHRDZJeUZRUWssZnlrcjRXblpybjRuaGt4cGNqM29BalRUMW5BdjlXNEhqenhVV2svZzMwMEV2YjFFRHJqTitPMGcvSlFQTldNemxyWDFEZENqM2o3Q0l4Zm9pUnRoRHNVRDVYQUxCK1FUWlVXMlFwMlgxSDVLbk9MZ0lWUWdoakVPOFU1QTRjVkhuUWtFMHBseG1PNXcxMmh0ZVozVEc0aWoyMzBuNFc4UUlySWdyZlQxRTI0eDlZMFNJUnlwc1l4Z2k3ZGpSdjVRU1VWMWdZMVFtclFxQmV4QW9yMm9XMGg5QWFvcGV6YWpQWWVndDlIdlpnM1JFcWd4cFlTWEhCL2QwVnpVNm9UcjRXVmNIeDJYdmV3eTBnU2pJcG1XVDVlTFcxRnRMbW1ZZi9EMGlrSkJCMWxsd1M4T2o3TmdEWVcwVDlybjNham81RGhCcGt4ODBKdmtOQWsveUk1YTZ3PT08L1NQPg==",
+    "domain": "trustero331.sharepoint.com",
+    "path": "/",
+    "expires": 1741599242.138,
+    "size": 1423,
+    "httpOnly": true,
+    "secure": true,
+    "session": false,
+    "sameSite": "None",
+    "priority": "Medium",
+    "sourceScheme": "Secure",
+    "sourcePort": -1
+  }
+]
